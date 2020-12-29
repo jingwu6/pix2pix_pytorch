@@ -1,8 +1,5 @@
 # pix2pix_pytorch
-CS543 - Computer Vision Term Project | pix2pix based on Wasserstein GAN
-
-Team members: Jing Wu, Henry Woo, Huizi Hu, Hecheng Sun
-
+pix2pix based on Wasserstein GAN
 
 ## Code structure:
 
